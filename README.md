@@ -39,3 +39,17 @@ Sort the categories by their titles
 ### Step 6
 
 Add an image of a ghost that inserts itself randomly into your tableview.  The image of the ghost should change to a different image when you select it.
+
+---
+
+# Multiple MVC Updates
+
+### Step 1
+
+Create a detail view controller with a large image when you select a row.
+
+### Step 2
+
+Remove the tags from the cell and add an accessary segue that shows the tags of the image when you select a row.
+
+
